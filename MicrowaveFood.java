@@ -70,7 +70,7 @@ public final class MicrowaveFood {
     *
     * @param args No args will be used
     */
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         // Create new Scanner-type variable
         final Scanner foodInput = new Scanner(System.in);
         final Scanner numberInput = new Scanner(System.in);
